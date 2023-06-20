@@ -39,3 +39,8 @@ CREATE TABLE treatments (
   PRIMARY KEY(id)
 );
 
+CREATE TABLE medical_histories_join_treatments (
+  medical_histories_id INT REFERENCES medical_histories(id),
+  treatments_id INT REFERENCES treatments(id),
+  PRIMARY KEY(medical_histories_id, treatments_id)
+);
