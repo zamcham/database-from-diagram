@@ -50,7 +50,7 @@ PostgreSQL 15
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, run the queries on [schema.sql](./schema.sql) to create all tables.
+To get a local copy up and running, run the queries on [schema_based_on_diagram.sql](./schema_based_on_diagram.sql) to create all tables.
 
 ### Prerequisites
 
