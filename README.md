@@ -1,6 +1,6 @@
 ## Getting Started
 
-This repository includes schema_based_on_diagram.sql where we implemented the database from the diagram below.
+This repository includes the 'schema_based_on_diagram.sql' file where we implemented the database from the diagram below.
 
 ![Diagram](https://raw.githubusercontent.com/microverseinc/curriculum-databases/main/db-structure/images/clinic_diagram.png?token=GHSAT0AAAAAAB6QWTXDPGQU6YI46AMZLC74ZESBW5Q "Diagram")
 
@@ -27,7 +27,7 @@ This repository includes schema_based_on_diagram.sql where we implemented the da
 
 # 📖 [Database Diagram] <a name="about-project"></a>
 
-The primary objective of this project was to interpret a database diagram, and implement the SQL needed to build that database.
+The primary objective of this project was to interpret a database diagram and implement the SQL needed to build that database.
 
 ## 🛠 Built With <a name="built-with"></a>
 PostgreSQL 15
@@ -80,9 +80,9 @@ In order to run this project you need: PostgreSQL
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Efficient data management: Allows adding, updating, and deleting animal records.]**
-- [ ] **[Search and filter capabilities: Enables finding animals based on various criteria.]**
-- [ ] **[Data visualization and reporting: Provides visual representations and reports for data analysis.]**
+- [ ] **Efficient data management: Allows adding, updating, and deleting records.**
+- [ ] **Search and filter capabilities: Enables finding data based on various criteria.**
+- [ ] **Data visualization and reporting: Provides visual representations and reports for data analysis.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
