@@ -43,9 +43,8 @@ PostgreSQL 15
 
 ### Key Features <a name="key-features"></a>
 
-- **[Efficient data management: Allows adding, updating, and deleting animal records.]**
-- **[Search and filter capabilities: Enables finding animals based on various criteria.]**
-- **[Data visualization and reporting: Provides visual representations and reports for data analysis.]**
+- **Efficient data management: Allows adding and updating records.**
+- **Data visualization and reporting: Provides visual representations and reports for data analysis.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
