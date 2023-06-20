@@ -44,3 +44,7 @@ CREATE TABLE medical_histories_join_treatments (
   treatments_id INT REFERENCES treatments(id),
   PRIMARY KEY(medical_histories_id, treatments_id)
 );
+
+--INDEXES
+CREATE INDEX idx_medical_histories_patient_id ON medical_histories (patient_id);
+CREATE INDEX idx_invoices_medical_history_id ON invoices (medical_history_id);
